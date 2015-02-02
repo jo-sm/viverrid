@@ -1,0 +1,14 @@
+{
+  "name": "viverrid",
+  "version": "0.0.1",
+  "description": "Mongo DB packet processing library",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Smock",
+  "dependencies": {
+    "bson": "0.2.15",
+    "pcap": "2.0.0"
+  }
+}
